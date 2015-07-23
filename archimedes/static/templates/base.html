@@ -49,13 +49,13 @@
                             <ul class="nav pull-right navbar-nav">
                                  <li><a href="{% url 'home' %}">{%trans "Home" %}</a></li>
                                  <li><a href="{% url 'about_us' %}">About Us</a></li>
-                                 <li><a href="../services.html">Services</a></li>
-                                 <li><a href="../portfolio.html">Portfolio</a></li>
-                                 <li><a href="../blog.html">Blog</a></li>
-                                 <li><a href="../contact.html">Contact</a></li>
+                                 <li><a href="{% url 'services' %}">Services</a></li>
+                                 <li><a href="{% url 'products' %}">Products</a></li>
+                                 <li><a href="{% url 'news' %}">News</a></li>
+                                 <li><a href="{% url 'contact' %}">Contact</a></li>
                                  <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="#">Pages<span class="caret"></span></a>
                                       <ul class="dropdown-menu">
-                                           <li><a href="../home_alternative.html">Home Alternative</a></li>
+                                           <li><a href="{% url 'home' %}">Home Alternative</a></li>
                                       </ul>
                                  </li>
                             </ul>
@@ -80,9 +80,13 @@
              </div>
         </header>
 
+        {% block full_page_photo %}{% endblock %}
+
+        <div class="main">
         {% block content %}{% endblock %}
 
         {% include "foot.html" %}
+        </div>
 
         {% compress js %}
             <script type="text/javascript" src="{% static 'js/jquery-1.11.3.min.js' %}"></script>
