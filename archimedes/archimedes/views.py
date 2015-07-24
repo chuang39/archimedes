@@ -21,3 +21,6 @@ class NewsView(TemplateView):
 
 class ContactView(TemplateView):
     template_name = 'contact.html'
+
+class SinglepostView(TemplateView):
+    template_name = 'single_post.html'

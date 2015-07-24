@@ -24,6 +24,8 @@ from archimedes.views import ProductsView
 from archimedes.views import NewsView
 from archimedes.views import ContactView
 
+from archimedes.views import SinglepostView
+
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
@@ -33,5 +35,8 @@ urlpatterns = [
     url(r'^news$', NewsView.as_view(), name='news'),
     url(r'^contact$', ContactView.as_view(), name='contact'),
     url('^home$', IndexView.as_view(), name='home'),
+
+    url(r'^single_post', SinglepostView.as_view(), name='single_post'),
+
     url('^.*$', IndexView.as_view(), name='index'),
 ]
