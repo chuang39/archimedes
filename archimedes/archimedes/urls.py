@@ -19,24 +19,21 @@ from django.conf.urls.i18n import i18n_patterns
 
 from archimedes.views import IndexView
 from archimedes.views import AboutusView
-from archimedes.views import ServicesView
+from archimedes.views import SolutionsView
 from archimedes.views import ProductsView
 from archimedes.views import NewsView
 from archimedes.views import ContactView
 
-from archimedes.views import SinglepostView
 
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^about_us$', AboutusView.as_view(), name='about_us'),
-    url(r'^services', ServicesView.as_view(), name='services'),
+    url(r'^solutions', SolutionsView.as_view(), name='solutions'),
     url(r'^products$', ProductsView.as_view(), name='products'),
     url(r'^news$', NewsView.as_view(), name='news'),
     url(r'^contact$', ContactView.as_view(), name='contact'),
     url('^home$', IndexView.as_view(), name='home'),
-
-    url(r'^single_post', SinglepostView.as_view(), name='single_post'),
 
     url('^.*$', IndexView.as_view(), name='index'),
 ]
