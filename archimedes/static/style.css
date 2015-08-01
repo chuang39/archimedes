@@ -8363,7 +8363,7 @@ blockquote p {
 /* =Documentation
 -------------------------------------------------------------- */
 .bs-docs-section img {
-  border: solid 5px #000;
+  border: solid 5px #888;
   border-radius: 6px;
 }
 .bs-docs-sidebar {

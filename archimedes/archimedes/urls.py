@@ -20,9 +20,10 @@ from django.conf.urls.i18n import i18n_patterns
 from archimedes.views import IndexView
 from archimedes.views import AboutusView
 from archimedes.views import SolutionsView
+from archimedes.views import SolutionA150View
 from archimedes.views import ProductsView
 from archimedes.views import NewsView
-from archimedes.views import ContactView
+#from archimedes.views import ContactView
 
 
 
@@ -30,9 +31,11 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^about_us$', AboutusView.as_view(), name='about_us'),
     url(r'^solutions', SolutionsView.as_view(), name='solutions'),
-    url(r'^products$', ProductsView.as_view(), name='products'),
-    url(r'^news$', NewsView.as_view(), name='news'),
-    url(r'^contact$', ContactView.as_view(), name='contact'),
+    url(r'^solution_A150', SolutionA150View.as_view(), name='solution_A150'),
+    #url(r'^products$', ProductsView.as_view(), name='products'),
+    #url(r'^news$', NewsView.as_view(), name='news'),
+    #url(r'^contact$', ContactView.as_view(), name='contact'),
+    url(r'^contact$', 'archimedes.views.contact', name='contact'),
     url('^home$', IndexView.as_view(), name='home'),
 
     url('^.*$', IndexView.as_view(), name='index'),

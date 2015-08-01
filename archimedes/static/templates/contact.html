@@ -34,6 +34,11 @@
                     </div>
                     <div class="contact_form col-sm-8 col-md-8">
                          <form name="contact_form" id="contact_form" method="post">
+                             {% csrf_token %}
+                             {{ form.as_p }}
+
+                        <input type="submit" value='submit'/>
+                            <!--
                               <div class="row">
                                    <div class="col-sm-6 col-md-6">
                                         <label>Name</label>
@@ -68,6 +73,7 @@
                                    <div class="col-sm-12 col-md-12"><br/>
                                         <a id="submit_btn" class="btn btn-primary" name="submit">Submit Message</a> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
                               </div>
+                              -->
                          </form>
                     </div>
                </div>
