@@ -27,11 +27,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.48251748">
       <split-first>
         <leaf>
-          <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static/templates/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="9.625">
-                  <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+                <state vertical-scroll-proportion="0.6820809">
+                  <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -68,13 +68,13 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8265896">
-                  <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+                <state vertical-scroll-proportion="-12.941176">
+                  <caret line="54" column="77" selection-start-line="54" selection-start-column="77" selection-end-line="54" selection-end-column="77" />
                   <folding>
-                    <element signature="e#4738#4796#0#HTML" expanded="true" />
+                    <element signature="e#4758#4816#0#HTML" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -136,21 +136,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="solution_A150.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="solution_A150.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/static/templates/solution_A150.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6936416">
-                  <caret line="24" column="125" selection-start-line="22" selection-start-column="31" selection-end-line="24" selection-end-column="125" />
+                <state vertical-scroll-proportion="-5.625">
+                  <caret line="9" column="99" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="129" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="solutions.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="solutions.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-16.25">
-                  <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
+                <state vertical-scroll-proportion="0.2601156">
+                  <caret line="9" column="129" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
                   <folding />
                 </state>
               </provider>
@@ -194,13 +194,13 @@
         <option value="$PROJECT_DIR$/static/templates/about_us.html" />
         <option value="$PROJECT_DIR$/archimedes/forms.py" />
         <option value="$PROJECT_DIR$/static/templates/contact.html" />
-        <option value="$PROJECT_DIR$/static/templates/base.html" />
         <option value="$PROJECT_DIR$/archimedes/urls.py" />
         <option value="$PROJECT_DIR$/archimedes/views.py" />
         <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/static/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/templates/base.html" />
         <option value="$PROJECT_DIR$/static/templates/solution_A150.html" />
         <option value="$PROJECT_DIR$/static/templates/solutions.html" />
-        <option value="$PROJECT_DIR$/static/templates/index.html" />
       </list>
     </option>
   </component>
@@ -212,8 +212,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1286" />
-    <option name="y" value="35" />
+    <option name="x" value="1105" />
+    <option name="y" value="56" />
     <option name="width" value="2119" />
     <option name="height" value="1057" />
   </component>
@@ -617,7 +617,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1286" y="35" width="2119" height="1057" extended-state="0" />
+    <frame x="1105" y="56" width="2119" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42206478" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -854,7 +854,7 @@
     <entry file="file://$PROJECT_DIR$/archimedes/forms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -881,14 +881,6 @@
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.29411766">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -936,37 +928,45 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.941176">
+          <caret line="54" column="77" selection-start-line="54" selection-start-column="77" selection-end-line="54" selection-end-column="77" />
+          <folding>
+            <element signature="e#4758#4816#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="9.625">
-          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+        <state vertical-scroll-proportion="0.6820809">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.25">
-          <caret line="43" column="100" selection-start-line="43" selection-start-column="100" selection-end-line="43" selection-end-column="100" />
+        <state vertical-scroll-proportion="-0.29411766">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/solution_A150.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6936416">
-          <caret line="24" column="125" selection-start-line="22" selection-start-column="31" selection-end-line="24" selection-end-column="125" />
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="99" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="129" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8265896">
-          <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
-          <folding>
-            <element signature="e#4738#4796#0#HTML" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.2601156">
+          <caret line="9" column="129" selection-start-line="9" selection-start-column="129" selection-end-line="9" selection-end-column="129" />
+          <folding />
         </state>
       </provider>
     </entry>
