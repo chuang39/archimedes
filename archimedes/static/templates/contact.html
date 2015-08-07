@@ -1,4 +1,7 @@
 {% extends "base.html" %}
+{% load bootstrap %}
+
+
 
 {% load i18n %}
 
@@ -28,53 +31,16 @@
                               <abbr title="Phone">Phone:</abbr>+1 650.720.5820
                               </address>
                               <address>
-                              <abbr title="Phone">Email:</abbr> <a href="mailto:#">sales@ArchimedesControls.com</a>
+                              <abbr title="Phone">Email:</abbr> <a href="mailto:sales@ArchimedesControls.com">sales@ArchimedesControls.com</a>
                               </address>
                          </div>
                     </div>
                     <div class="contact_form col-sm-8 col-md-8">
-                         <form name="contact_form" id="contact_form" method="post">
-                             {% csrf_token %}
-                             {{ form.as_p }}
-
-                        <input type="submit" value='submit'/>
-                            <!--
-                              <div class="row">
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>Name</label>
-                                        <input name="name" id="name" class="form-control" type="text" value="">
-                                   </div>
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>E-mail</label>
-                                        <input name="email" id="email" class="form-control" type="text" value="">
-                                   </div>
-                              </div>
-                             <div class="row">
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>Phone</label>
-                                        <input name="company" id="company" class="form-control" type="text" value="">
-                                   </div>
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>Company</label>
-                                        <input name="company" id="company" class="form-control" type="text" value="">
-                                   </div>
-                              </div>
-                              <div class="row">
-                                   <div class="col-sm-12 col-md-12">
-                                        <label>Subject</label>
-                                        <input name="subject" id="subject" class="form-control" type="text">
-                                   </div>
-                              </div>
-                              <div class="row">
-                                   <div class="col-sm-12 col-md-12">
-                                        <label>Message</label>
-                                        <textarea name="message" id="message" rows="8" class="form-control"></textarea>
-                                   </div>
-                                   <div class="col-sm-12 col-md-12"><br/>
-                                        <a id="submit_btn" class="btn btn-primary" name="submit">Submit Message</a> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
-                              </div>
-                              -->
-                         </form>
+                        <form action="{% url 'contact_form_view' %}" method="POST">
+                            {% csrf_token %}
+                            {{ form|bootstrap }}
+                            <button class="btn btn-primary btn-contact">Contact</button>
+                        </form>
                     </div>
                </div>
            </div>

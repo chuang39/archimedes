@@ -21,6 +21,7 @@ from archimedes.views import IndexView
 from archimedes.views import AboutusView
 from archimedes.views import SolutionsView
 from archimedes.views import SolutionA150View
+
 from archimedes.views import ProductsView
 from archimedes.views import NewsView
 #from archimedes.views import ContactView
@@ -35,7 +36,7 @@ urlpatterns = [
     #url(r'^products$', ProductsView.as_view(), name='products'),
     #url(r'^news$', NewsView.as_view(), name='news'),
     #url(r'^contact$', ContactView.as_view(), name='contact'),
-    url(r'^contact$', 'archimedes.views.contact', name='contact'),
+    url(r'^contact', include('contact.urls')),
     url('^home$', IndexView.as_view(), name='home'),
 
     url('^.*$', IndexView.as_view(), name='index'),

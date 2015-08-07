@@ -1,11 +1,6 @@
 from django.views.generic.base import TemplateView
-from django.views.generic.base import TemplateView
-from archimedes.forms import ContactForm
-from django.views.generic.edit import FormView
-
 from django.shortcuts import render
 
-import boto.sns
 
 class IndexView(TemplateView):
     template_name = 'index.html'
@@ -42,23 +37,20 @@ class ContactView(TemplateView):
 
 
         return render(request, self.template_name, {'form': form})
-"""
+
 def contact(request):
 
     form = ContactForm(request.POST or None)
     if form.is_valid():
         print form.cleaned_data
         regions = boto.sns.regions()
-        print regions
-        sns = boto.sns.SNSConnection(aws_access_key_id='AKIAJXN4QBOQO6TR7T5Q',
-                                aws_secret_access_key='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',
-                                region=u'us-west-2')
 
-        print "=====",sns
+        #sns = boto.sns.connect_to_region('us-west-2', aws_access_key_id='AKIAJXN4QBOQO6TR7T5Q',
+        #                        aws_secret_access_key='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')
 
-        sns.publish(u'arn:aws:sns:us-west-2:451326512542:ArchimedesCustomerContactTopic', '123', 'sdfasfda')
+        #sns.publish(u'arn:aws:sns:us-west-2:451326512542:ArchimedesCustomerContactTopic', '123', 'sdfasfda')
 
 
     context = {'form': form}
     return render(request, 'contact.html', context)
-
+"""
