@@ -69,28 +69,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.9411764">
-              <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+            <state vertical-scroll-proportion="0.18115942">
+              <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
               <folding>
-                <element signature="e#268#328#0#HTML" expanded="true" />
-                <element signature="e#1271#1329#0#HTML" expanded="true" />
-                <element signature="e#1832#1890#0#HTML" expanded="true" />
+                <element signature="e#1277#1335#0#HTML" expanded="true" />
+                <element signature="e#1838#1896#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30612245">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="96" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
               <folding>
-                <element signature="e#2912#2971#0#HTML" expanded="true" />
+                <element signature="e#102#172#0#HTML" expanded="true" />
+                <element signature="e#2915#2974#0#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solutions.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="97" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="97" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,7 +170,6 @@
         <option value="$PROJECT_DIR$/static/templates/news.html" />
         <option value="$PROJECT_DIR$/static/templates/solution_A150.html" />
         <option value="$PROJECT_DIR$/static/style.css" />
-        <option value="$PROJECT_DIR$/static/templates/solutions.html" />
         <option value="$PROJECT_DIR$/archimedes/forms.py" />
         <option value="$PROJECT_DIR$/archimedes/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/archimedes/models.py" />
@@ -174,6 +183,7 @@
         <option value="$PROJECT_DIR$/archimedes/urls.py" />
         <option value="$PROJECT_DIR$/static/templates/contact.html" />
         <option value="$PROJECT_DIR$/static/templates/about_us.html" />
+        <option value="$PROJECT_DIR$/static/templates/solutions.html" />
         <option value="$PROJECT_DIR$/static/templates/index.html" />
       </list>
     </option>
@@ -561,9 +571,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2055" y="106" width="1381" height="946" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43785632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43785632" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -771,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -903,29 +906,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9411764">
-          <caret line="16" column="84" selection-start-line="16" selection-start-column="84" selection-end-line="16" selection-end-column="84" />
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="96" selection-start-line="9" selection-start-column="96" selection-end-line="9" selection-end-column="96" />
           <folding>
-            <element signature="e#268#328#0#HTML" expanded="true" />
-            <element signature="e#1271#1329#0#HTML" expanded="true" />
-            <element signature="e#1832#1890#0#HTML" expanded="true" />
+            <element signature="e#102#172#0#HTML" expanded="true" />
+            <element signature="e#2915#2974#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/01_1920x480.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="97" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="97" />
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
+    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30612245">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.18115942">
+          <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
           <folding>
-            <element signature="e#2912#2971#0#HTML" expanded="true" />
+            <element signature="e#1277#1335#0#HTML" expanded="true" />
+            <element signature="e#1838#1896#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
