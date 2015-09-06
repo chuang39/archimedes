@@ -7309,8 +7309,8 @@ section.parallax-window {
   text-align: center;
   background-color: #000;
   background-color: #222222;
-  background: url(images/backgrounds/wild_oliva_dark.png);
-  color: #cccccc;
+  background: url(images/backgrounds/wild_oliva_light.png);
+  color: #000;
   padding: 40px;
   -webkit-transition: all 500ms linear;
   -o-transition: all 500ms linear;
