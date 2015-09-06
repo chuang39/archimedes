@@ -60,36 +60,35 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="26" column="105" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="105" />
               <folding>
                 <element signature="e#267#335#0#HTML" expanded="true" />
                 <element signature="e#821#884#0#HTML" expanded="true" />
-                <element signature="e#1387#1459#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.75">
-              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+            <state vertical-scroll-proportion="0.59210527">
+              <caret line="56" column="89" selection-start-line="56" selection-start-column="89" selection-end-line="56" selection-end-column="89" />
               <folding>
-                <element signature="e#2899#2955#0#HTML" expanded="true" />
+                <element signature="e#102#175#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solutions.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="solutions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29605263">
-              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
               <folding>
-                <element signature="e#1342#1400#0#HTML" expanded="true" />
+                <element signature="e#1357#1415#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,8 +184,8 @@
         <option value="$PROJECT_DIR$/archimedes/urls.py" />
         <option value="$PROJECT_DIR$/static/templates/contact.html" />
         <option value="$PROJECT_DIR$/static/templates/index.html" />
-        <option value="$PROJECT_DIR$/static/templates/about_us.html" />
         <option value="$PROJECT_DIR$/static/templates/solutions.html" />
+        <option value="$PROJECT_DIR$/static/templates/about_us.html" />
       </list>
     </option>
   </component>
@@ -198,8 +197,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1755" />
-    <option name="y" value="180" />
+    <option name="x" value="2024" />
+    <option name="y" value="198" />
     <option name="width" value="1602" />
     <option name="height" value="809" />
   </component>
@@ -572,10 +571,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1755" y="180" width="1602" height="809" extended-state="0" />
-    <editor active="false" />
+    <frame x="2024" y="198" width="1602" height="809" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51891893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51891893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -916,32 +915,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="26" column="105" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="105" />
           <folding>
             <element signature="e#267#335#0#HTML" expanded="true" />
             <element signature="e#821#884#0#HTML" expanded="true" />
-            <element signature="e#1387#1459#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.75">
-          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
-          <folding>
-            <element signature="e#2899#2955#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29605263">
-          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="95" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
           <folding>
-            <element signature="e#1342#1400#0#HTML" expanded="true" />
+            <element signature="e#1357#1415#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59210527">
+          <caret line="56" column="89" selection-start-line="56" selection-start-column="89" selection-end-line="56" selection-end-column="89" />
+          <folding>
+            <element signature="e#102#175#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
