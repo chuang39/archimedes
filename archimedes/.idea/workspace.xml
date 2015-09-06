@@ -60,13 +60,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.291667">
-              <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+            <state vertical-scroll-proportion="-15.625">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
-                <element signature="e#268#334#0#HTML" expanded="true" />
-                <element signature="e#1277#1345#0#HTML" expanded="true" />
-                <element signature="e#1792#1855#0#HTML" expanded="true" />
-                <element signature="e#2358#2430#0#HTML" expanded="true" />
+                <element signature="e#267#335#0#HTML" expanded="true" />
+                <element signature="e#821#884#0#HTML" expanded="true" />
+                <element signature="e#1387#1459#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,9 +74,11 @@
       <file leaf-file-name="about_us.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-31.875">
-              <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
-              <folding />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+              <folding>
+                <element signature="e#2899#2955#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,10 +87,9 @@
         <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.29605263">
-              <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+              <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
               <folding>
-                <element signature="e#102#173#0#HTML" expanded="true" />
-                <element signature="e#1359#1417#0#HTML" expanded="true" />
+                <element signature="e#1342#1400#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,9 +184,9 @@
         <option value="$PROJECT_DIR$/contact/forms.py" />
         <option value="$PROJECT_DIR$/archimedes/urls.py" />
         <option value="$PROJECT_DIR$/static/templates/contact.html" />
-        <option value="$PROJECT_DIR$/static/templates/solutions.html" />
-        <option value="$PROJECT_DIR$/static/templates/about_us.html" />
         <option value="$PROJECT_DIR$/static/templates/index.html" />
+        <option value="$PROJECT_DIR$/static/templates/about_us.html" />
+        <option value="$PROJECT_DIR$/static/templates/solutions.html" />
       </list>
     </option>
   </component>
@@ -674,11 +674,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/images/about_us.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/products.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -909,27 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-31.875">
-          <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.291667">
-          <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
-          <folding>
-            <element signature="e#268#334#0#HTML" expanded="true" />
-            <element signature="e#1277#1345#0#HTML" expanded="true" />
-            <element signature="e#1792#1855#0#HTML" expanded="true" />
-            <element signature="e#2358#2430#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/solution_A150.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.5">
@@ -940,13 +914,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#267#335#0#HTML" expanded="true" />
+            <element signature="e#821#884#0#HTML" expanded="true" />
+            <element signature="e#1387#1459#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+          <folding>
+            <element signature="e#2899#2955#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29605263">
-          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
           <folding>
-            <element signature="e#102#173#0#HTML" expanded="true" />
-            <element signature="e#1359#1417#0#HTML" expanded="true" />
+            <element signature="e#1342#1400#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
