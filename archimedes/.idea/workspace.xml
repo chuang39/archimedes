@@ -92,10 +92,11 @@
       <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66132265">
-              <caret line="56" column="84" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="84" />
+            <state vertical-scroll-proportion="0.751503">
+              <caret line="52" column="378" selection-start-line="52" selection-start-column="378" selection-end-line="52" selection-end-column="378" />
               <folding>
                 <element signature="e#102#175#0#HTML" expanded="true" />
+                <element signature="e#3609#3661#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -567,9 +568,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1614" y="23" width="1678" height="989" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40108696" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40108696" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -931,10 +932,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66132265">
-          <caret line="56" column="84" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="84" />
+        <state vertical-scroll-proportion="0.751503">
+          <caret line="52" column="378" selection-start-line="52" selection-start-column="378" selection-end-line="52" selection-end-column="378" />
           <folding>
             <element signature="e#102#175#0#HTML" expanded="true" />
+            <element signature="e#3609#3661#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
