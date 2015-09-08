@@ -89,10 +89,11 @@
       <file leaf-file-name="solutions.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3491461">
-              <caret line="36" column="95" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
+            <state vertical-scroll-proportion="0.6053131">
+              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
               <folding>
                 <element signature="e#102#171#0#HTML" expanded="true" />
+                <element signature="e#1357#1416#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -918,10 +919,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/templates/solutions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3491461">
-          <caret line="36" column="95" selection-start-line="36" selection-start-column="95" selection-end-line="36" selection-end-column="95" />
+        <state vertical-scroll-proportion="0.6053131">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
           <folding>
             <element signature="e#102#171#0#HTML" expanded="true" />
+            <element signature="e#1357#1416#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
